@@ -21,7 +21,7 @@ This timetable outlines a three-week, day-by-day structure for learning Dart fun
 | Day            | Topic                                  | Sections Covered                                                                                                    |    Done    |
 | :------------- | :------------------------------------- | :------------------------------------------------------------------------------------------------------------------ | :--------: |
 | **2025/09/26** | **Dart & Flutter Intro + Dart Basics** | 02 – What is Dart & Flutter Framework → 002 Dart Pad Overview<br>03 – Basics: 001 Basic Math → 006 Exercise Strings | **[ ✔️ ]** |
-| **2025/09/27** | Dart Basics (Part 1)                   | 03 – Basics: 007 Booleans → 012 Maps                                                                                |  **[ ]**   |
+| **2025/09/27** | Dart Basics (Part 1)                   | 03 – Basics: 007 Booleans → 012 Maps                                                                                | **[ ✔️ ]** |
 | **2025/09/28** | Dart Basics (Part 2)                   | 03 – Basics: 013 Maps Exercise → 018 static & dynamic                                                               |  **[ ]**   |
 | **2025/09/29** | Control Flow (Part 1)                  | 04 – 001 Introduction → 006 Exercise For Loops                                                                      |  **[ ]**   |
 | **2025/09/30** | Control Flow (Part 2)                  | 04 – 007 While Loops → 010 Switch & Case                                                                            |  **[ ]**   |
